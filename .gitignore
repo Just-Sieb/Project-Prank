@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+__pycahce__
+__pycache__/*
+*.pyc
+*.txt
+.git.old/*
